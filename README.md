@@ -11,7 +11,7 @@ In **ClickPaws**, you can add cute animal images to the UI. Each animal has a he
 - ❤️ Each animal displays a heart icon
 - 🖱️ Clicking on an animal increases the width of the heart icon
 - 💡 Minimal and responsive UI
-- ⚡ Built using Vite for fast development experience
+- ⚡ Built using Vite for a fast development experience
 
 ---
 
@@ -20,17 +20,6 @@ In **ClickPaws**, you can add cute animal images to the UI. Each animal has a he
 - **React.js**
 - **Vite**
 - **JavaScript (ES6+)**
-- **CSS / Tailwind (if used)**
+- **CSS** (vanilla)
 
 ---
-
-## 📦 Getting Started Locally
-
-Make sure you have Node.js and npm installed.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/clickpaws.git
-cd clickpaws
-```
